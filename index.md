@@ -128,5 +128,5 @@ If the Extension's data-handling practices change, this Privacy Policy will be u
 
 If you have questions about this Privacy Policy or the Extension's data-handling practices, contact the developer at:
 
-- 联系邮箱 / Email: **[发布前填写联系邮箱 / Add contact email before publication]**
-- 支持页面 / Support page: **[发布前填写公开支持页面网址 / Add public support-page URL before publication]**
+- 联系邮箱 / Email: rwatitfahsa@163.com
+- 支持页面 / Support page: https://github.com/FahsaRwatit/x-toolkit-privacy/
